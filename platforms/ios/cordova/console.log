@@ -1,0 +1,225 @@
+2014-09-26 22:41:58.159 EVIBTapp[56677:3065505] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pierremarguerite/Library/Developer/CoreSimulator/Devices/BB9CBBB8-E680-4388-AF0C-117DF78A5D9D/data/Containers/Data/Application/41587983-4918-455D-BB49-270BF09EE538/Library/Cookies/Cookies.binarycookies
+2014-09-26 22:41:58.515 EVIBTapp[56677:3065505] Apache Cordova native platform version 3.6.3 is starting.
+2014-09-26 22:41:58.516 EVIBTapp[56677:3065505] Multi-tasking -> Device: YES, App: YES
+2014-09-26 22:41:58.577 EVIBTapp[56677:3065505] Unlimited access to network resources
+2014-09-26 22:41:58.597 EVIBTapp[56677:3065505] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-09-26 22:41:59.649 EVIBTapp[56677:3065505] [CDVTimer][splashscreen] 246.060967ms
+2014-09-26 22:41:59.649 EVIBTapp[56677:3065505] [CDVTimer][TotalPluginStartup] 246.335030ms
+2014-09-26 22:42:00.712 EVIBTapp[56677:3065505] Resetting plugins due to page load.
+2014-09-26 22:42:01.093 EVIBTapp[56677:3065505] Finished load of: file:///Users/pierremarguerite/Library/Developer/CoreSimulator/Devices/BB9CBBB8-E680-4388-AF0C-117DF78A5D9D/data/Containers/Bundle/Application/1777181B-BB20-4BFA-9AD2-09382DE3CCF9/EVIBTapp.app/www/index.html
+2014-09-26 22:42:15.368 EVIBTapp[56677:3065505] CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:42:15.368 EVIBTapp[56677:3065505] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:42:15.953 EVIBTapp[56677:3065505] CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:42:15.954 EVIBTapp[56677:3065505] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:43:08.679 EVIBTapp[56677:3065505] CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:43:08.679 EVIBTapp[56677:3065505] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:43:08.795 EVIBTapp[56677:3065505] THREAD WARNING: ['InAppBrowser'] took '112.855225' ms. Plugin should use a background thread.
+2014-09-26 22:43:24.703 EVIBTapp[56677:3067065] Terminating since there is no system app.
+2014-09-26 22:44:15.042 EVIBTapp[56900:3068342] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pierremarguerite/Library/Developer/CoreSimulator/Devices/BB9CBBB8-E680-4388-AF0C-117DF78A5D9D/data/Containers/Data/Application/D65856B5-6D37-4507-803B-3058B7AAE6B3/Library/Cookies/Cookies.binarycookies
+2014-09-26 22:44:15.128 EVIBTapp[56900:3068342] Apache Cordova native platform version 3.6.3 is starting.
+2014-09-26 22:44:15.128 EVIBTapp[56900:3068342] Multi-tasking -> Device: YES, App: YES
+2014-09-26 22:44:15.138 EVIBTapp[56900:3068342] Unlimited access to network resources
+2014-09-26 22:44:15.149 EVIBTapp[56900:3068342] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-09-26 22:44:15.500 EVIBTapp[56900:3068342] [CDVTimer][splashscreen] 45.063972ms
+2014-09-26 22:44:15.500 EVIBTapp[56900:3068342] [CDVTimer][TotalPluginStartup] 45.269012ms
+2014-09-26 22:44:15.561 EVIBTapp[56900:3068342] Resetting plugins due to page load.
+2014-09-26 22:44:15.631 EVIBTapp[56900:3068342] Finished load of: file:///Users/pierremarguerite/Library/Developer/CoreSimulator/Devices/BB9CBBB8-E680-4388-AF0C-117DF78A5D9D/data/Containers/Bundle/Application/4CF285EF-89D1-4B49-BE1E-AA06D206E61F/EVIBTapp.app/www/index.html
+2014-09-26 22:44:49.303 EVIBTapp[56900:3068342] CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:44:49.304 EVIBTapp[56900:3068342] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:45:03.372 EVIBTapp[56900:3068342] CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:45:03.374 EVIBTapp[56900:3068342] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:45:03.586 EVIBTapp[56900:3068342] THREAD WARNING: ['InAppBrowser'] took '205.347168' ms. Plugin should use a background thread.
+2014-09-26 22:45:11.934 EVIBTapp[56900:3068342] CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:45:11.934 EVIBTapp[56900:3068342] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:45:14.610 EVIBTapp[56900:3068342] CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:45:14.611 EVIBTapp[56900:3068342] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:45:15.301 EVIBTapp[56900:3068342] CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:45:15.301 EVIBTapp[56900:3068342] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:45:15.684 EVIBTapp[56900:3068342] CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:45:15.684 EVIBTapp[56900:3068342] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:45:16.037 EVIBTapp[56900:3068342] CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:45:16.038 EVIBTapp[56900:3068342] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:45:45.437 EVIBTapp[56900:3068342] CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:45:45.443 EVIBTapp[56900:3068342] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:45:48.465 EVIBTapp[56900:3068342] CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:45:48.466 EVIBTapp[56900:3068342] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:45:50.159 EVIBTapp[56900:3068342] CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:45:50.159 EVIBTapp[56900:3068342] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:49:29.236 EVIBTapp[56900:3068342] CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 22:49:29.236 EVIBTapp[56900:3068342] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 23:21:27.789 EVIBTapp[56900:3068342] CDVWebViewDelegate: Navigation started when state=1
+2014-09-26 23:21:27.793 EVIBTapp[56900:3068342] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-09-27 00:08:02.060 EVIBTapp[59233:3117599] Apache Cordova native platform version 3.6.3 is starting.
+2014-09-27 00:08:02.061 EVIBTapp[59233:3117599] Multi-tasking -> Device: YES, App: YES
+2014-09-27 00:08:02.121 EVIBTapp[59233:3117599] Unlimited access to network resources
+2014-09-27 00:08:02.140 EVIBTapp[59233:3117599] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-09-27 00:08:02.608 EVIBTapp[59233:3117599] [CDVTimer][splashscreen] 154.592991ms
+2014-09-27 00:08:02.608 EVIBTapp[59233:3117599] [CDVTimer][TotalPluginStartup] 154.841006ms
+2014-09-27 00:08:02.730 EVIBTapp[59233:3117599] Resetting plugins due to page load.
+2014-09-27 00:08:02.826 EVIBTapp[59233:3117599] Finished load of: file:///Users/pierremarguerite/Library/Developer/CoreSimulator/Devices/BB9CBBB8-E680-4388-AF0C-117DF78A5D9D/data/Containers/Bundle/Application/E91EB7D8-F614-4853-B093-BFBA435D4D06/EVIBTapp.app/www/index.html
+2014-09-27 00:13:27.637 EVIBTapp[59233:3117599] THREAD WARNING: ['InAppBrowser'] took '296.529053' ms. Plugin should use a background thread.
+2014-09-27 00:14:45.029 EVIBTapp[59476:3122151] Apache Cordova native platform version 3.6.3 is starting.
+2014-09-27 00:14:45.030 EVIBTapp[59476:3122151] Multi-tasking -> Device: YES, App: YES
+2014-09-27 00:14:45.082 EVIBTapp[59476:3122151] Unlimited access to network resources
+2014-09-27 00:14:45.095 EVIBTapp[59476:3122151] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-09-27 00:14:45.496 EVIBTapp[59476:3122151] [CDVTimer][splashscreen] 123.914003ms
+2014-09-27 00:14:45.496 EVIBTapp[59476:3122151] [CDVTimer][TotalPluginStartup] 124.149024ms
+2014-09-27 00:14:45.600 EVIBTapp[59476:3122151] Resetting plugins due to page load.
+2014-09-27 00:14:45.853 EVIBTapp[59476:3122151] Finished load of: file:///Users/pierremarguerite/Library/Developer/CoreSimulator/Devices/BB9CBBB8-E680-4388-AF0C-117DF78A5D9D/data/Containers/Bundle/Application/C2DEBA8C-FDBB-489E-AACF-2B7060204D7D/EVIBTapp.app/www/index.html
+2014-09-27 00:17:58.935 EVIBTapp[59629:3123993] Apache Cordova native platform version 3.6.3 is starting.
+2014-09-27 00:17:58.937 EVIBTapp[59629:3123993] Multi-tasking -> Device: YES, App: YES
+2014-09-27 00:17:58.962 EVIBTapp[59629:3123993] Unlimited access to network resources
+2014-09-27 00:17:58.971 EVIBTapp[59629:3123993] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-09-27 00:17:59.491 EVIBTapp[59629:3123993] [CDVTimer][splashscreen] 155.229986ms
+2014-09-27 00:17:59.491 EVIBTapp[59629:3123993] [CDVTimer][TotalPluginStartup] 155.507982ms
+2014-09-27 00:17:59.606 EVIBTapp[59629:3123993] Resetting plugins due to page load.
+2014-09-27 00:17:59.711 EVIBTapp[59629:3123993] Finished load of: file:///Users/pierremarguerite/Library/Developer/CoreSimulator/Devices/BB9CBBB8-E680-4388-AF0C-117DF78A5D9D/data/Containers/Bundle/Application/0FD4CC77-2DAA-439E-92A6-08731785AEC5/EVIBTapp.app/www/index.html
+2014-09-27 00:17:59.813 EVIBTapp[59629:3123993] Received Event: deviceready
+2014-09-27 00:21:05.742 EVIBTapp[59790:3125934] Apache Cordova native platform version 3.6.3 is starting.
+2014-09-27 00:21:05.743 EVIBTapp[59790:3125934] Multi-tasking -> Device: YES, App: YES
+2014-09-27 00:21:05.764 EVIBTapp[59790:3125934] Unlimited access to network resources
+2014-09-27 00:21:05.772 EVIBTapp[59790:3125934] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-09-27 00:21:06.295 EVIBTapp[59790:3125934] [CDVTimer][splashscreen] 162.967026ms
+2014-09-27 00:21:06.295 EVIBTapp[59790:3125934] [CDVTimer][TotalPluginStartup] 163.254976ms
+2014-09-27 00:21:06.468 EVIBTapp[59790:3125934] Resetting plugins due to page load.
+2014-09-27 00:21:06.818 EVIBTapp[59790:3125934] Finished load of: file:///Users/pierremarguerite/Library/Developer/CoreSimulator/Devices/BB9CBBB8-E680-4388-AF0C-117DF78A5D9D/data/Containers/Bundle/Application/212FEC3D-6D98-4BA7-8E19-0F7D0323F0A4/EVIBTapp.app/www/index.html
+2014-09-27 00:21:07.001 EVIBTapp[59790:3125934] Received Event: deviceready
+2014-09-27 00:21:49.650 EVIBTapp[59955:3127161] Apache Cordova native platform version 3.6.3 is starting.
+2014-09-27 00:21:49.652 EVIBTapp[59955:3127161] Multi-tasking -> Device: YES, App: YES
+2014-09-27 00:21:49.674 EVIBTapp[59955:3127161] Unlimited access to network resources
+2014-09-27 00:21:49.679 EVIBTapp[59955:3127161] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-09-27 00:21:50.094 EVIBTapp[59955:3127161] [CDVTimer][splashscreen] 170.965016ms
+2014-09-27 00:21:50.096 EVIBTapp[59955:3127161] [CDVTimer][TotalPluginStartup] 172.285020ms
+2014-09-27 00:21:50.303 EVIBTapp[59955:3127161] Resetting plugins due to page load.
+2014-09-27 00:21:50.714 EVIBTapp[59955:3127161] Finished load of: file:///Users/pierremarguerite/Library/Developer/CoreSimulator/Devices/BB9CBBB8-E680-4388-AF0C-117DF78A5D9D/data/Containers/Bundle/Application/20192E49-63B5-40EB-A0E4-9C69485D60B3/EVIBTapp.app/www/index.html
+2014-09-27 00:36:52.331 EVIBTapp[60242:3135431] Apache Cordova native platform version 3.6.3 is starting.
+2014-09-27 00:36:52.333 EVIBTapp[60242:3135431] Multi-tasking -> Device: YES, App: YES
+2014-09-27 00:36:52.362 EVIBTapp[60242:3135431] Unlimited access to network resources
+2014-09-27 00:36:52.368 EVIBTapp[60242:3135431] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-09-27 00:36:52.950 EVIBTapp[60242:3135431] [CDVTimer][splashscreen] 197.519958ms
+2014-09-27 00:36:52.950 EVIBTapp[60242:3135431] [CDVTimer][TotalPluginStartup] 197.817028ms
+2014-09-27 00:36:53.166 EVIBTapp[60242:3135431] Resetting plugins due to page load.
+2014-09-27 00:36:53.470 EVIBTapp[60242:3135431] Finished load of: file:///Users/pierremarguerite/Library/Developer/CoreSimulator/Devices/BB9CBBB8-E680-4388-AF0C-117DF78A5D9D/data/Containers/Bundle/Application/0070502C-040B-4AC6-A007-DFE5DCB0B4F5/EVIBTapp.app/www/index.html
+2014-09-27 00:36:53.753 EVIBTapp[60242:3135431] Received Event: deviceready
+2014-09-27 00:38:41.180 EVIBTapp[60440:3137108] Apache Cordova native platform version 3.6.3 is starting.
+2014-09-27 00:38:41.182 EVIBTapp[60440:3137108] Multi-tasking -> Device: YES, App: YES
+2014-09-27 00:38:41.210 EVIBTapp[60440:3137108] Unlimited access to network resources
+2014-09-27 00:38:41.221 EVIBTapp[60440:3137108] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-09-27 00:38:41.588 EVIBTapp[60440:3137108] [CDVTimer][splashscreen] 119.000971ms
+2014-09-27 00:38:41.588 EVIBTapp[60440:3137108] [CDVTimer][TotalPluginStartup] 119.208992ms
+2014-09-27 00:38:41.664 EVIBTapp[60440:3137108] Resetting plugins due to page load.
+2014-09-27 00:38:41.773 EVIBTapp[60440:3137108] Finished load of: file:///Users/pierremarguerite/Library/Developer/CoreSimulator/Devices/BB9CBBB8-E680-4388-AF0C-117DF78A5D9D/data/Containers/Bundle/Application/93414E48-8D56-4AA0-9075-D88F700DAA85/EVIBTapp.app/www/index.html
+2014-09-27 00:41:19.996 EVIBTapp[60684:3139481] Apache Cordova native platform version 3.6.3 is starting.
+2014-09-27 00:41:19.998 EVIBTapp[60684:3139481] Multi-tasking -> Device: YES, App: YES
+2014-09-27 00:41:20.051 EVIBTapp[60684:3139481] Unlimited access to network resources
+2014-09-27 00:41:20.071 EVIBTapp[60684:3139481] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-09-27 00:41:20.539 EVIBTapp[60684:3139481] [CDVTimer][splashscreen] 159.220040ms
+2014-09-27 00:41:20.539 EVIBTapp[60684:3139481] [CDVTimer][TotalPluginStartup] 159.412026ms
+2014-09-27 00:41:20.734 EVIBTapp[60684:3139481] Resetting plugins due to page load.
+2014-09-27 00:41:20.878 EVIBTapp[60684:3139481] Finished load of: file:///Users/pierremarguerite/Library/Developer/CoreSimulator/Devices/BB9CBBB8-E680-4388-AF0C-117DF78A5D9D/data/Containers/Bundle/Application/BB419E99-2862-455A-B12E-10F6CA279C32/EVIBTapp.app/www/index.html
+2014-09-27 00:41:21.180 EVIBTapp[60684:3139481] Received Event: deviceready
+2014-09-27 00:42:52.000 EVIBTapp[60881:3141236] Apache Cordova native platform version 3.6.3 is starting.
+2014-09-27 00:42:52.002 EVIBTapp[60881:3141236] Multi-tasking -> Device: YES, App: YES
+2014-09-27 00:42:52.080 EVIBTapp[60881:3141236] Unlimited access to network resources
+2014-09-27 00:42:52.090 EVIBTapp[60881:3141236] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-09-27 00:42:52.553 EVIBTapp[60881:3141236] [CDVTimer][splashscreen] 120.316029ms
+2014-09-27 00:42:52.553 EVIBTapp[60881:3141236] [CDVTimer][TotalPluginStartup] 120.509028ms
+2014-09-27 00:42:52.648 EVIBTapp[60881:3141236] Resetting plugins due to page load.
+2014-09-27 00:42:52.765 EVIBTapp[60881:3141236] Finished load of: file:///Users/pierremarguerite/Library/Developer/CoreSimulator/Devices/BB9CBBB8-E680-4388-AF0C-117DF78A5D9D/data/Containers/Bundle/Application/2D54EC5D-60AB-4716-93E2-F59C62C590C7/EVIBTapp.app/www/index.html
+2014-09-27 00:42:53.167 EVIBTapp[60881:3141236] Received Event: deviceready
+2014-09-27 00:47:44.091 EVIBTapp[61096:3144452] Apache Cordova native platform version 3.6.3 is starting.
+2014-09-27 00:47:44.093 EVIBTapp[61096:3144452] Multi-tasking -> Device: YES, App: YES
+2014-09-27 00:47:44.123 EVIBTapp[61096:3144452] Unlimited access to network resources
+2014-09-27 00:47:44.129 EVIBTapp[61096:3144452] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-09-27 00:47:44.507 EVIBTapp[61096:3144452] [CDVTimer][splashscreen] 121.654034ms
+2014-09-27 00:47:44.508 EVIBTapp[61096:3144452] [CDVTimer][TotalPluginStartup] 121.861994ms
+2014-09-27 00:47:44.593 EVIBTapp[61096:3144452] Resetting plugins due to page load.
+2014-09-27 00:47:44.781 EVIBTapp[61096:3144452] Finished load of: file:///Users/pierremarguerite/Library/Developer/CoreSimulator/Devices/BB9CBBB8-E680-4388-AF0C-117DF78A5D9D/data/Containers/Bundle/Application/11D83B55-CF83-48D9-8EC4-5E7799870605/EVIBTapp.app/www/index.html
+2014-09-27 00:47:44.858 EVIBTapp[61096:3144452] Received Event: deviceready
+2014-09-27 00:56:36.871 EVIBTapp[61367:3149562] Apache Cordova native platform version 3.6.3 is starting.
+2014-09-27 00:56:36.874 EVIBTapp[61367:3149562] Multi-tasking -> Device: YES, App: YES
+2014-09-27 00:56:36.906 EVIBTapp[61367:3149562] Unlimited access to network resources
+2014-09-27 00:56:36.917 EVIBTapp[61367:3149562] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-09-27 00:56:37.588 EVIBTapp[61367:3149562] [CDVTimer][splashscreen] 191.686988ms
+2014-09-27 00:56:37.588 EVIBTapp[61367:3149562] [CDVTimer][TotalPluginStartup] 191.881001ms
+2014-09-27 00:56:37.748 EVIBTapp[61367:3149562] Resetting plugins due to page load.
+2014-09-27 00:56:37.951 EVIBTapp[61367:3149562] Finished load of: file:///Users/pierremarguerite/Library/Developer/CoreSimulator/Devices/BB9CBBB8-E680-4388-AF0C-117DF78A5D9D/data/Containers/Bundle/Application/9C9F3F9E-E9C7-452B-B85D-C2399573C8FC/EVIBTapp.app/www/index.html
+2014-09-27 00:56:38.217 EVIBTapp[61367:3149562] Received Event: deviceready

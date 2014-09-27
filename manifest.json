@@ -1,0 +1,41 @@
+ {
+        "name": "Testplate",
+        "version": "1.0",
+        "manifest_version": 2,
+        "description": "Enyo extension.",
+ "offline_enabled": true,
+        "app": {
+            "launch": {
+                "local_path": "www/index.html"
+            }
+        },
+ "permissions": [
+    "alarms",
+    "audioCapture",
+    "fileSystem",
+    "geolocation",
+    "identity",
+    "idle",
+    "notifications",
+    "power",
+    "pushMessaging",
+    "gcm",
+    {
+      "socket": [ "tcp-connect", "tcp-listen", "udp-send-to", "udp-bind", "udp-multicast-membership" ]
+    },
+    "storage",
+    "syncFileSystem",
+    "system.cpu",
+    "system.display",
+    "system.memory",
+    "system.network",
+    "system.storage",
+    "videoCapture",
+    "http://www.apache.org/*",
+    "http://127.0.0.1/*",
+    "https://www.googleapis.com/*"
+  ],
+  
+"key": "fkpfkaodegmnljjldocbbfeiblhddbhn"
+    }
+

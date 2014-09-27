@@ -1,0 +1,9 @@
+Origin: Name of your repository. 
+Label: What the user will see to go to your repository. This can be the same as Origin. 
+Suite: stable 
+Version: 1.0 
+Codename: stable 
+Architectures:  iphoneos-arms
+Components: main 
+Description: Description of your repository. 
+

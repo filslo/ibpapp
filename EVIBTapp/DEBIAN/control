@@ -1,0 +1,9 @@
+Website: http://www.yoursite.com 
+Maintainer: You. 
+Name: EVIBTapp
+Package: com.schneider.evibt
+Section: Section 
+Version: 0.0.3
+Architecture: iphoneos-arm 
+Description: Information about package. 
+Sponsor: You. 
